@@ -432,7 +432,14 @@ padding: 10%;
         flex-wrap: wrap;
         flex-direction: column;
     }
-
+    .nombre-y-apellido{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .input-primeralinea input{
+        width: 100%;
+    }
     .enviar{
         width: 80%;
     }
