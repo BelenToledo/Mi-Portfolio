@@ -412,6 +412,7 @@ padding: 10%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        padding-top: 15%;
     }
       
     .conocimientos, .proyectos, .escribime h2, .contactame h2{
